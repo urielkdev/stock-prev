@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sat Jul 27 19:30:54 GMT-03:00 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088): instance a816c00e-016c-358e-e93b-000009f39d88 
+on database directory memory:C:\Users\uriel\Documents\workspace-sts-3.8.2.RELEASE\course-api-db\testdb with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+Loaded from file:/C:/Users/uriel/.m2/repository/org/apache/derby/derby/10.13.1.1/derby-10.13.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_211-b12
+user.dir=C:\Users\uriel\Documents\workspace-sts-3.8.2.RELEASE\course-api-db
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
